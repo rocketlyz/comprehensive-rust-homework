@@ -7,5 +7,9 @@ name = "day1"
 version = "0.1.0"
 
 [[package]]
+name = "day2_am"
+version = "0.1.0"
+
+[[package]]
 name = "lifetime"
 version = "0.1.0"
